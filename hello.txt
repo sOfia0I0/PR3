@@ -5,6 +5,7 @@ int main(void)
     setlocale(LC_ALL, "Rus");
     int n;
     double p, sum = 0;
+    cout << "Вариант 15" << endl;
     cout << "Введите натуральное число n: ";
     cin >> n;
     cout << "Введите значение p: ";
